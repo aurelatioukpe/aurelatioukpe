@@ -84,7 +84,7 @@ network in C++ sitting next to production TypeScript.
 
 🇫🇷 **French** — native  ·  🇬🇧 **English** — professional (TEPitech 820/1000)
 
-Based in Cotonou on **UTC+1**, which happens to be Paris hours.
+Based in Cotonou on **UTC+1**.
 
 ---
 
