@@ -1,4 +1,4 @@
-![room](<img width="735" height="414" alt="_ (52)" src="https://github.com/user-attachments/assets/f415947b-b9bb-4add-9d28-55df73563e03" />)
+![room](<img width="735" height="414" alt="_ (52)" src="https://github.com/user-attachments/assets/f14ce9fe-ba24-4c90-a5d4-58d1748e0b5d" />)
 
 ### Hi there 👋
 
@@ -101,5 +101,4 @@ Based in Cotonou on **UTC+1**, which happens to be Paris hours.
 
 ---
 
-# Thanks for your visit<img width="735" height="414" alt="_ (52)" src="https://github.com/user-attachments/assets/f14ce9fe-ba24-4c90-a5d4-58d1748e0b5d" />
-
+# Thanks for your visit
